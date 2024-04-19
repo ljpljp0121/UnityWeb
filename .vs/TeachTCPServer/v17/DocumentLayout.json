@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E356C601-8E7C-4F80-8D2F-E5C3A56C7996}|TeachTCPServerExercises2\\TeachTCPServerExercises2.csproj|c:\\users\\\u5ED6\u5EFA\u9E4F\\onedrive\\desktop\\teachtcpserver\\teachtcpserverexercises2\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E356C601-8E7C-4F80-8D2F-E5C3A56C7996}|TeachTCPServerExercises2\\TeachTCPServerExercises2.csproj|solutionrelative:teachtcpserverexercises2\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E356C601-8E7C-4F80-8D2F-E5C3A56C7996}|TeachTCPServerExercises2\\TeachTCPServerExercises2.csproj|c:\\users\\\u5ED6\u5EFA\u9E4F\\onedrive\\desktop\\teachtcpserver\\teachtcpserverexercises2\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E356C601-8E7C-4F80-8D2F-E5C3A56C7996}|TeachTCPServerExercises2\\TeachTCPServerExercises2.csproj|solutionrelative:teachtcpserverexercises2\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299F2827-E117-434D-8A3C-5FEA69C6CD85}|TeachTCPServer\\TeachTCPServer.csproj|c:\\users\\\u5ED6\u5EFA\u9E4F\\onedrive\\desktop\\teachtcpserver\\teachtcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299F2827-E117-434D-8A3C-5FEA69C6CD85}|TeachTCPServer\\TeachTCPServer.csproj|solutionrelative:teachtcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E356C601-8E7C-4F80-8D2F-E5C3A56C7996}|TeachTCPServerExercises2\\TeachTCPServerExercises2.csproj|c:\\users\\\u5ED6\u5EFA\u9E4F\\onedrive\\desktop\\teachtcpserver\\teachtcpserverexercises2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E356C601-8E7C-4F80-8D2F-E5C3A56C7996}|TeachTCPServerExercises2\\TeachTCPServerExercises2.csproj|solutionrelative:teachtcpserverexercises2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServer\\Program.cs",
+              "RelativeDocumentMoniker": "TeachTCPServer\\Program.cs",
+              "ToolTip": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServer\\Program.cs",
+              "RelativeToolTip": "TeachTCPServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:40:36.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServerExercises2\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "TeachTCPServerExercises2\\ServerSocket.cs",
+              "ToolTip": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServerExercises2\\ServerSocket.cs",
+              "RelativeToolTip": "TeachTCPServerExercises2\\ServerSocket.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:59:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServerExercises2\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "TeachTCPServerExercises2\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServerExercises2\\ClientSocket.cs",
+              "RelativeToolTip": "TeachTCPServerExercises2\\ClientSocket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:39:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServerExercises2\\Program.cs",
+              "RelativeDocumentMoniker": "TeachTCPServerExercises2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u5ED6\u5EFA\u9E4F\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServerExercises2\\Program.cs",
+              "RelativeToolTip": "TeachTCPServerExercises2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:37:19.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\bin\Debug\net8.0\TeachTcpServerExercises.exe
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\bin\Debug\net8.0\TeachTcpServerExercises.deps.json
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\bin\Debug\net8.0\TeachTcpServerExercises.runtimeconfig.json
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\bin\Debug\net8.0\TeachTcpServerExercises.dll
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\bin\Debug\net8.0\TeachTcpServerExercises.pdb
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.AssemblyInfoInputs.cache
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.AssemblyInfo.cs
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.csproj.CoreCompileInputs.cache
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.dll
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\refint\TeachTcpServerExercises.dll
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.pdb
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\TeachTcpServerExercises.genruntimeconfig.cache
+C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTcpServerExercises\obj\Debug\net8.0\ref\TeachTcpServerExercises.dll
