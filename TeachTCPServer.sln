@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachUdpServer", "TeachUdpS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachUdpServerExercise", "TeachUdpServerExercise\TeachUdpServerExercise.csproj", "{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachUdpAsyncServer", "TeachUdpAsyncServer\TeachUdpAsyncServer.csproj", "{1DB6DA3F-1153-4D7A-8AF5-3D0DA6124F57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB6DA3F-1153-4D7A-8AF5-3D0DA6124F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB6DA3F-1153-4D7A-8AF5-3D0DA6124F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB6DA3F-1153-4D7A-8AF5-3D0DA6124F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB6DA3F-1153-4D7A-8AF5-3D0DA6124F57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

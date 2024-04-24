@@ -1,0 +1,15 @@
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\bin\Debug\net8.0\TeachUdpAsyncServer.exe
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\bin\Debug\net8.0\TeachUdpAsyncServer.deps.json
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\bin\Debug\net8.0\TeachUdpAsyncServer.runtimeconfig.json
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\bin\Debug\net8.0\TeachUdpAsyncServer.dll
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\bin\Debug\net8.0\TeachUdpAsyncServer.pdb
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.AssemblyInfoInputs.cache
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.AssemblyInfo.cs
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.csproj.CoreCompileInputs.cache
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.sourcelink.json
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.dll
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\refint\TeachUdpAsyncServer.dll
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.pdb
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\TeachUdpAsyncServer.genruntimeconfig.cache
+D:\VS Workspace\TeachTCPServer\TeachUdpAsyncServer\obj\Debug\net8.0\ref\TeachUdpAsyncServer.dll

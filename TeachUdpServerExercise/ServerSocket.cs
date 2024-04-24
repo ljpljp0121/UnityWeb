@@ -140,7 +140,7 @@ namespace TeachUdpServerExercise
         {
             if (clientDic.ContainsKey(clientID))
             {
-                Console.WriteLine("客户端{0}被移除了" + clientDic[clientID].clientIPAndPort);
+                Console.WriteLine("客户端{0}被移除了",clientDic[clientID].clientIPAndPort);
                 clientDic.Remove(clientID);
             }
         }
