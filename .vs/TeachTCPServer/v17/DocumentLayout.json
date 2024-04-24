@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\VS Workspace\\TeachTCPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B58683BB-D671-4C01-800C-7088678520DF}|TeachTcpServerAsync\\TeachTcpServerAsync.csproj|d:\\vs workspace\\teachtcpserver\\teachtcpserverasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58683BB-D671-4C01-800C-7088678520DF}|TeachTcpServerAsync\\TeachTcpServerAsync.csproj|solutionrelative:teachtcpserverasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}|TeachUdpServerExercise\\TeachUdpServerExercise.csproj|d:\\vs workspace\\teachtcpserver\\teachudpserverexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}|TeachUdpServerExercise\\TeachUdpServerExercise.csproj|solutionrelative:teachudpserverexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B58683BB-D671-4C01-800C-7088678520DF}|TeachTcpServerAsync\\TeachTcpServerAsync.csproj|d:\\vs workspace\\teachtcpserver\\teachtcpserverasync\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58683BB-D671-4C01-800C-7088678520DF}|TeachTcpServerAsync\\TeachTcpServerAsync.csproj|solutionrelative:teachtcpserverasync\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}|TeachUdpServerExercise\\TeachUdpServerExercise.csproj|d:\\vs workspace\\teachtcpserver\\teachudpserverexercise\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}|TeachUdpServerExercise\\TeachUdpServerExercise.csproj|solutionrelative:teachudpserverexercise\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B58683BB-D671-4C01-800C-7088678520DF}|TeachTcpServerAsync\\TeachTcpServerAsync.csproj|d:\\vs workspace\\teachtcpserver\\teachtcpserverasync\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58683BB-D671-4C01-800C-7088678520DF}|TeachTcpServerAsync\\TeachTcpServerAsync.csproj|solutionrelative:teachtcpserverasync\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}|TeachUdpServerExercise\\TeachUdpServerExercise.csproj|d:\\vs workspace\\teachtcpserver\\teachudpserverexercise\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5CEE0C-1A8A-4FD5-99A2-962000F338C8}|TeachUdpServerExercise\\TeachUdpServerExercise.csproj|solutionrelative:teachudpserverexercise\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServerSocket.cs",
-              "DocumentMoniker": "D:\\VS Workspace\\TeachTCPServer\\TeachTcpServerAsync\\ServerSocket.cs",
-              "RelativeDocumentMoniker": "TeachTcpServerAsync\\ServerSocket.cs",
-              "ToolTip": "D:\\VS Workspace\\TeachTCPServer\\TeachTcpServerAsync\\ServerSocket.cs",
-              "RelativeToolTip": "TeachTcpServerAsync\\ServerSocket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAArAAAA",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\TeachTCPServer\\TeachUdpServerExercise\\Client.cs",
+              "RelativeDocumentMoniker": "TeachUdpServerExercise\\Client.cs",
+              "ToolTip": "D:\\VS Workspace\\TeachTCPServer\\TeachUdpServerExercise\\Client.cs",
+              "RelativeToolTip": "TeachUdpServerExercise\\Client.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:01:33.73Z",
+              "WhenOpened": "2024-04-24T12:29:12.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientSocket.cs",
-              "DocumentMoniker": "D:\\VS Workspace\\TeachTCPServer\\TeachTcpServerAsync\\ClientSocket.cs",
-              "RelativeDocumentMoniker": "TeachTcpServerAsync\\ClientSocket.cs",
-              "ToolTip": "D:\\VS Workspace\\TeachTCPServer\\TeachTcpServerAsync\\ClientSocket.cs",
-              "RelativeToolTip": "TeachTcpServerAsync\\ClientSocket.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFsAAAAwAAAA",
+              "DocumentIndex": 2,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "D:\\VS Workspace\\TeachTCPServer\\TeachUdpServerExercise\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "TeachUdpServerExercise\\ServerSocket.cs",
+              "ToolTip": "D:\\VS Workspace\\TeachTCPServer\\TeachUdpServerExercise\\ServerSocket.cs",
+              "RelativeToolTip": "TeachUdpServerExercise\\ServerSocket.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T05:39:07.563Z",
+              "WhenOpened": "2024-04-24T12:15:34.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VS Workspace\\TeachTCPServer\\TeachTcpServerAsync\\Program.cs",
-              "RelativeDocumentMoniker": "TeachTcpServerAsync\\Program.cs",
-              "ToolTip": "D:\\VS Workspace\\TeachTCPServer\\TeachTcpServerAsync\\Program.cs",
-              "RelativeToolTip": "TeachTcpServerAsync\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "DocumentMoniker": "D:\\VS Workspace\\TeachTCPServer\\TeachUdpServerExercise\\Program.cs",
+              "RelativeDocumentMoniker": "TeachUdpServerExercise\\Program.cs",
+              "ToolTip": "D:\\VS Workspace\\TeachTCPServer\\TeachUdpServerExercise\\Program.cs",
+              "RelativeToolTip": "TeachUdpServerExercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T05:38:40.515Z",
+              "WhenOpened": "2024-04-24T11:59:13.338Z",
               "EditorCaption": ""
             }
           ]

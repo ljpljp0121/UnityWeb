@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeachTCPServerExercises2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0327e10537cf33f63cc73f88aad67f8c5b55210b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce19e70b46b8ae38a6f3e0e914ea16f4349cd65")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeachTCPServerExercises2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeachTCPServerExercises2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

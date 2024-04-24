@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TeachTcpServerExercises")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TeachUdpServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce19e70b46b8ae38a6f3e0e914ea16f4349cd65")]
-[assembly: System.Reflection.AssemblyProductAttribute("TeachTcpServerExercises")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TeachTcpServerExercises")]
+[assembly: System.Reflection.AssemblyProductAttribute("TeachUdpServer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TeachUdpServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
