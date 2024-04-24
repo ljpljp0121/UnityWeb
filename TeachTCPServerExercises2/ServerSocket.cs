@@ -14,6 +14,8 @@ namespace TeachTCPServerExercises2
         public Socket socket;
         //客户端连接的所有Socket
         public Dictionary<int, ClientSocket> clientDic = new Dictionary<int, ClientSocket>();
+        //有待移除的客户端socket 避免在foreach循环时直接从字典中移除出现问题
+        private List<ClientSocket> delList = new List<ClientSocket>();
 
         private bool isClose;
         //开启服务器端
@@ -27,12 +29,11 @@ namespace TeachTCPServerExercises2
             ThreadPool.QueueUserWorkItem(Accept);
             ThreadPool.QueueUserWorkItem(Receive);
         }
-
         //关闭服务器端
         public void Close()
         {
             isClose = true;
-            foreach(ClientSocket client in clientDic.Values)
+            foreach (ClientSocket client in clientDic.Values)
             {
                 client.Close();
             }
@@ -42,7 +43,6 @@ namespace TeachTCPServerExercises2
             socket.Close();
             socket = null;
         }
-
         //线程池 处理客户端连接服务端
         private void Accept(object obj)
         {
@@ -53,9 +53,13 @@ namespace TeachTCPServerExercises2
                     //连入一个客户端
                     Socket clientSocket = socket.Accept();
                     ClientSocket client = new ClientSocket(clientSocket);
-                    clientDic.Add(client.clientID, client);
+                    lock (clientDic)
+                    {
+                        clientDic.Add(client.clientID, client);
+                    }
+                    Console.WriteLine("连接成功");
                 }
-                catch(Exception e)
+                catch (Exception e)
                 {
                     Console.WriteLine("客户端连入报错" + e.Message);
                 }
@@ -64,13 +68,17 @@ namespace TeachTCPServerExercises2
         //线程池 接受客户端消息
         private void Receive(object obj)
         {
-            while(!isClose)
+            while (!isClose)
             {
-                if(clientDic.Count>0)
+                if (clientDic.Count > 0)
                 {
-                    foreach(ClientSocket client in clientDic.Values)
+                    lock (clientDic)
                     {
-                        client.Receive();
+                        foreach (ClientSocket client in clientDic.Values)
+                        {
+                            client.Receive();
+                        }
+                        CloseDelListSocket();
                     }
                 }
             }
@@ -78,9 +86,43 @@ namespace TeachTCPServerExercises2
 
         public void Broadcast(BaseInfo info)
         {
-            foreach (ClientSocket client in clientDic.Values)
+            lock (clientDic)
             {
-                client.Send(info);
+                foreach (ClientSocket client in clientDic.Values)
+                {
+                    client.Send(info);
+                }
+            }
+        }
+        //添加待移除的 socket 的内容
+        public void AddDelSocket(ClientSocket socket)
+        {
+            if (!delList.Contains(socket))
+            {
+                delList.Add(socket);
+            }
+        }
+        //判断有没有 断开连接的 将其移除
+        public void CloseDelListSocket()
+        {
+            for (int i = 0; i < delList.Count; i++)
+            {
+                CloseClientSocket(delList[i]);
+            }
+            delList.Clear();
+        }
+
+        //关闭客户端连接 从字典中移除
+        public void CloseClientSocket(ClientSocket socket)
+        {
+            lock (clientDic)
+            {
+                socket.Close();
+                if (clientDic.ContainsKey(socket.clientID))
+                {
+                    clientDic.Remove(socket.clientID);
+                    Console.WriteLine("客户端{0}主动断开成功",socket.clientID);
+                }
             }
         }
     }

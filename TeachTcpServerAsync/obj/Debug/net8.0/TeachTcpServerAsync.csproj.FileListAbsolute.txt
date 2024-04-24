@@ -1,0 +1,15 @@
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\bin\Debug\net8.0\TeachTcpServerAsync.exe
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\bin\Debug\net8.0\TeachTcpServerAsync.deps.json
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\bin\Debug\net8.0\TeachTcpServerAsync.runtimeconfig.json
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\bin\Debug\net8.0\TeachTcpServerAsync.dll
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\bin\Debug\net8.0\TeachTcpServerAsync.pdb
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.AssemblyInfoInputs.cache
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.AssemblyInfo.cs
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.csproj.CoreCompileInputs.cache
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.sourcelink.json
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.dll
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\refint\TeachTcpServerAsync.dll
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.pdb
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\TeachTcpServerAsync.genruntimeconfig.cache
+D:\VS Workspace\TeachTCPServer\TeachTcpServerAsync\obj\Debug\net8.0\ref\TeachTcpServerAsync.dll

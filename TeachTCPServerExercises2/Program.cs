@@ -5,9 +5,10 @@ namespace TeachTCPServerExercises2
 {
     class Program
     {
+        public static ServerSocket socket;
         static void Main(string[] args)
         {
-            ServerSocket socket = new ServerSocket();
+            socket = new ServerSocket();
             socket.Start("127.0.0.1", 8080, 1024);
             Console.WriteLine("服务器开启成功");
             while (true)

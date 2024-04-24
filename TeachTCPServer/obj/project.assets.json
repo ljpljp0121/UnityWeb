@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\廖建鹏\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServer\\TeachTCPServer.csproj",
+      "projectUniqueName": "D:\\VS Workspace\\TeachTCPServer\\TeachTCPServer\\TeachTCPServer.csproj",
       "projectName": "TeachTCPServer",
-      "projectPath": "C:\\Users\\廖建鹏\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServer\\TeachTCPServer.csproj",
+      "projectPath": "D:\\VS Workspace\\TeachTCPServer\\TeachTCPServer\\TeachTCPServer.csproj",
       "packagesPath": "C:\\Users\\廖建鹏\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\廖建鹏\\OneDrive\\Desktop\\TeachTCPServer\\TeachTCPServer\\obj\\",
+      "outputPath": "D:\\VS Workspace\\TeachTCPServer\\TeachTCPServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

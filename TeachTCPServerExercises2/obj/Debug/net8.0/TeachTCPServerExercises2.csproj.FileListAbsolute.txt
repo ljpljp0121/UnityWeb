@@ -12,3 +12,18 @@ C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTCPServerExercises2\obj\
 C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.pdb
 C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.genruntimeconfig.cache
 C:\Users\廖建鹏\OneDrive\Desktop\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\ref\TeachTCPServerExercises2.dll
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.AssemblyInfoInputs.cache
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.AssemblyInfo.cs
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.csproj.CoreCompileInputs.cache
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.sourcelink.json
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.dll
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\refint\TeachTCPServerExercises2.dll
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.pdb
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\bin\Debug\net8.0\TeachTCPServerExercises2.exe
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\bin\Debug\net8.0\TeachTCPServerExercises2.deps.json
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\bin\Debug\net8.0\TeachTCPServerExercises2.runtimeconfig.json
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\bin\Debug\net8.0\TeachTCPServerExercises2.dll
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\bin\Debug\net8.0\TeachTCPServerExercises2.pdb
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\TeachTCPServerExercises2.genruntimeconfig.cache
+D:\VS Workspace\TeachTCPServer\TeachTCPServerExercises2\obj\Debug\net8.0\ref\TeachTCPServerExercises2.dll
